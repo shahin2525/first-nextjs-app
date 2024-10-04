@@ -1,7 +1,9 @@
+import React from "react";
+
 const page = () => {
   return (
     <div>
-      <h1 className="text-4xl text-center pt-10">next js home page</h1>
+      <h1>news home page</h1>
     </div>
   );
 };
